@@ -12,8 +12,8 @@ This project integrates the **Google Distance Matrix API** with a Laravel applic
 
 ## Requirements
 
-- PHP >= 8.0
-- Laravel 10.x
+- PHP >= "^7.2.5|^8.0"
+- Laravel "^7.29"
 - MySQL or another compatible database
 - Composer
 - Google Distance Matrix API key
@@ -25,9 +25,9 @@ This project integrates the **Google Distance Matrix API** with a Laravel applic
 Clone the project to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/google-distance-matrix.git
+git clone https://github.com/RanaIshtiyaq/Google_Distance_Matrix/
 
-2. Install Dependencies
+### 2. Install Dependencies
 Navigate to the project folder and install all dependencies using Composer:
 
 bash
